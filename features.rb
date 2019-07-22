@@ -1,4 +1,3 @@
 features
-features-1
 features-2
 
